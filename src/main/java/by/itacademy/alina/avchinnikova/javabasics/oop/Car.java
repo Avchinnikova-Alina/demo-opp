@@ -1,9 +1,9 @@
 package by.itacademy.alina.avchinnikova.javabasics.oop;
 
 public class Car {
-    String title;
-    String url;
-    String description;
+    String model;
+    int yearOfIssue;
+    String generation;
     Engine engine;
     Wheel wheel;
 }
